@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`]
 需要的请联系!
 
-![Uploading image.png…]()
+
 
 (https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
