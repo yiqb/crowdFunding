@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`]
 请观看视频，需要的请联系!接毕设项目，不限Java、next.js、dapp等
 
+【闲鱼】https://m.tb.cn/h.h2vmUvd?tk=m4awVFYaNSU CZ009 「我在闲鱼发布了【基于区块链的项目，使用next.js ，ether.js,可】」
+点击链接直接打开
+
 
 
 (https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
